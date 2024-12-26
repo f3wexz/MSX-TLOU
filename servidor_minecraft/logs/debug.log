@@ -5607,3 +5607,27 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [26Dec2024 23:06:01.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Killed Fanta_fox]
 [26Dec2024 23:06:02.472] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
 [26Dec2024 23:06:02.524] [Server thread/INFO] [do_a_barrel_roll/]: Client of Fanta_fox accepted server config.
+[26Dec2024 23:06:17.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fanta_fox died
+[26Dec2024 23:06:17.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Killed Fanta_fox]
+[26Dec2024 23:06:19.356] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Dec2024 23:06:19.450] [Server thread/INFO] [do_a_barrel_roll/]: Client of Fanta_fox accepted server config.
+[26Dec2024 23:06:54.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo TLOU
+[26Dec2024 23:06:54.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo TLOU
+[26Dec2024 23:07:39.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Survival Mode]
+[26Dec2024 23:07:54.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Creative Mode]
+[26Dec2024 23:08:01.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Survival Mode]
+[26Dec2024 23:08:12.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Creative Mode]
+[26Dec2024 23:08:28.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Survival Mode]
+[26Dec2024 23:08:28.709] [Server thread/DEBUG] [firstaid/]: Reloaded lookups
+[26Dec2024 23:08:30.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Creative Mode]
+[26Dec2024 23:11:54.501] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo TLOU
+[26Dec2024 23:11:54.512] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo TLOU
+[26Dec2024 23:12:22.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Spectator Mode]
+[26Dec2024 23:12:43.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Creative Mode]
+[26Dec2024 23:14:08.164] [Worker-Main-3/DEBUG] [ModernFix/]: Structure terralith:regular/glacial/interior2 is being run through DFU (hash 6dedf627f70e92d0c4de628846bbc67f90a7607bd719158f74232f99848480ba), this will cause launch time delays
+[26Dec2024 23:14:30.050] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[26Dec2024 23:16:44.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Survival Mode]
+[26Dec2024 23:16:49.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Creative Mode]
+[26Dec2024 23:16:54.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save Mundo TLOU
+[26Dec2024 23:16:54.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete Mundo TLOU
+[26Dec2024 23:16:57.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fanta_fox: Set own game mode to Spectator Mode]
